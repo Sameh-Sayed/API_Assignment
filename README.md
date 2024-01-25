@@ -1,7 +1,7 @@
 # API_Assignment
-I use maven Frame work to use maven dependency
-I create sample API class contains different methods 
-I assert on Response for each
+I use maven Framework to use maven dependency
+I create a sample API  
+I assert on Response and status code
 
-To be implment
+To be implemented
 Base class
